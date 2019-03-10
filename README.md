@@ -1,6 +1,6 @@
 # Dear No One,
 
-* [Entry 1] (https://nki13.github.io/dearnoone/March19/1.md)
+* [Entry 1] (https://nki13.github.io/dearnoone/March19/1)
 
 ### Markdown
 
